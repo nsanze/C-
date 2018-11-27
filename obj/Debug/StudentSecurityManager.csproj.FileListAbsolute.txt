@@ -1,0 +1,6 @@
+C:\Users\Texas\source\repos\ictlevel4\StudentSecurityManager\obj\Debug\StudentSecurityManager.csprojAssemblyReference.cache
+C:\Users\Texas\source\repos\ictlevel4\StudentSecurityManager\obj\Debug\StudentManager.Migrations.StudentsDBV1.resources
+C:\Users\Texas\source\repos\ictlevel4\StudentSecurityManager\obj\Debug\StudentSecurityManager.csproj.GenerateResource.cache
+C:\Users\Texas\source\repos\ictlevel4\StudentSecurityManager\obj\Debug\StudentSecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Texas\source\repos\ictlevel4\StudentSecurityManager\obj\Debug\StudentManager.dll
+C:\Users\Texas\source\repos\ictlevel4\StudentSecurityManager\obj\Debug\StudentManager.pdb
